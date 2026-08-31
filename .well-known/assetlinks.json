@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tanyaweveloped_wq.twa",
+        "sha256_cert_fingerprints": ["7F:8E:B5:9B:4C:26:71:50:AF:13:3D:F4:D2:2D:BE:18:BD:E2:BB:F7:96:EA:7C:7D:D3:A1:47:B7:17:CA:26:E1"]
+      }
+    }]
